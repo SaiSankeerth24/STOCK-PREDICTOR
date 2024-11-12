@@ -8,9 +8,6 @@ This project is a web-based application for predicting different kind of stock p
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Future Improvements](#future-improvements)
-- [License](#license)
 
 ## Features
 - **Data Visualization**: Plot historical stock price data with customizable stocks.
