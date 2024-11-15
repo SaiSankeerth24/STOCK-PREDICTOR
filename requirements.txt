@@ -1,0 +1,12 @@
+REQUIREMENTS
+
+1. python to be installed
+2. streamlit
+3. yfinance
+4. tensorflow
+5. numpy
+6. pandas
+7. matplotlib
+8. scikit-learn
+
+command for installation : pip install <module_name>
